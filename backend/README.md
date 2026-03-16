@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ```bash
 # Windows PowerShell
-$env:GEMINI_API_KEY = "AIzaSyDHhSDafHDEPhA7ofYtZM5pNUtGLCIKKW8"
+$env:GEMINI_API_KEY = "your_api_key"
 
 # Or create .env file
 echo "GEMINI_API_KEY=your-api-key-here" > .env
